@@ -1,8 +1,8 @@
 package routes
 
 import (
-	db "voting/database"
-	"voting/models"
+	db "EnySaTsia/database"
+	"EnySaTsia/models"
 
 	"gopkg.in/mgo.v2/bson"
 )

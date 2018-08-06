@@ -1,9 +1,9 @@
 package routes
 
 import (
+	db "EnySaTsia/database"
+	"EnySaTsia/models"
 	"fmt"
-	db "voting/database"
-	"voting/models"
 
 	"github.com/kataras/iris"
 	"gopkg.in/mgo.v2/bson"
